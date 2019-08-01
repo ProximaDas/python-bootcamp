@@ -3,5 +3,4 @@ Repository for exercises &amp; content taught in Python bootcamp
 
 **Instructors**
 
-Michael Gutensohn
-Proxima DasMohapatra
+Michael Gutensohn & Proxima DasMohapatra
