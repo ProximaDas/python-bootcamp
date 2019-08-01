@@ -29,7 +29,7 @@
 + HW02_ch05_ex02.py
 + HW02_ch05_ex03.py
 
-#### Brownie points
+## Brownie points
 + For the love of Git: [Git branching][git-branching]
 + [Not your parents' Fibonacci problem][euler-fibonacci]
 + Some light bedside reading: [PEP 8][pep-8]
