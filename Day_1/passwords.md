@@ -1,7 +1,7 @@
-###Windows
+### Windows
 Please try [this][GitHubHelpWin] or [this][SO] to cache your GitHub password in Git.
 
-###Mac
+### Mac
 Try [this][GitHubHelpMac].
 
 Note: If you have 2-Factor Authentication setup, you will need a personal access token. [Here.][tokens]
