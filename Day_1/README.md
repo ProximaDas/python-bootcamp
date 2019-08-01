@@ -8,7 +8,7 @@
 4. [**Push**][ref-push]/sync the changes up to GitHub.
 5. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
-##Exercises:
+## Exercises
 + D01_ex01.txt
 
 > enter your name and favorite color in place of mine.
