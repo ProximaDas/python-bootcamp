@@ -29,6 +29,11 @@
 + HW02_ch05_ex02.py
 + HW02_ch05_ex03.py
 
+#### Brownie points
++ For the love of Git: [Git branching][git-branching]
++ [Not your parents' Fibonacci problem][euler-fibonacci]
++ Some light bedside reading: [PEP 8][pep-8]
+
 <!-- Links -->
 
 [forking]: https://guides.github.com/activities/forking/
@@ -41,3 +46,7 @@
 [ch2]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html
 [ch3]: https://greenteapress.com/thinkpython2/html/thinkpython2004.html
 [ch5]: https://greenteapress.com/thinkpython2/html/thinkpython2006.html
+
+[git-branching]: https://learngitbranching.js.org/?locale=en_US
+[euler-fibonacci]: https://projecteuler.net/problem=2
+[pep 8]: https://www.python.org/dev/peps/pep-0008/
