@@ -49,4 +49,4 @@
 
 [git-branching]: https://learngitbranching.js.org/?locale=en_US
 [euler-fibonacci]: https://projecteuler.net/problem=2
-[pep 8]: https://www.python.org/dev/peps/pep-0008/
+[pep-8]: https://www.python.org/dev/peps/pep-0008/
